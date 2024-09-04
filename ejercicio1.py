@@ -49,7 +49,7 @@
         "# Ingreso del string por el usuario\n",
         "string_usuario = input(\"Ingrese un string: \")\n",
         "\n",
-        "# Obtener el slice desde el elemento 1 al penúltimo\n",
+        "# Obtener el slice desde el elemento 1 al penúlti\n",
         "slice_resultado = string_usuario[1:-1]\n",
         "print(f\"El slice del string desde el elemento 1 al penúltimo es: {slice_resultado}\")"
       ]
